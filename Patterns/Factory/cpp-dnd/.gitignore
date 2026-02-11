@@ -1,0 +1,11 @@
+# Build Output
+build/
+
+# macOS junk
+.DS_Store
+
+#Editor files
+.vscode/
+
+#Compiled binaries
+hello
